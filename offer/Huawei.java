@@ -73,7 +73,7 @@ public class Huawei {
 		int[] test = {2,1,7,0,3,4,6,5,8};
 		solution.sort(test, 9);
 		for (int i = 0; i < test.length; i++) {
-			System.out.println(test[i]);
+			System.out.print(test[i]);
 		}
 		
 	}
